@@ -9,6 +9,6 @@ Please note that when using ***Principia***, both apsidal and nodal precession a
 
 Supports ***stock***, ***OPM***, ***MPE***, ***Extrasolar***, & ***GEP***. I felt no need to provide edits for ***NeidonPlus***, ***JanetsPlanets***, and ***Kcalbeloh***.
 
-Please also note that the MPE support in ***IO-AlteredOrbits-GEP.cfg*** conflicts with the existing MPE support now included in GEP. If you are using that file, please delete ***GameData/GEP/GEP_Configs/MPE.cfg***.
+Please also note that the **MPE** support in ***IO-AlteredOrbits-GEP.cfg*** conflicts with the existing **MPE** support now included in **GEP**. If you are using that file, please delete ***GameData/GEP/GEP_Configs/MPE.cfg***.
 
 NOTE: The *NEEDS[Principia]* in these configs refers to the inclusion of ***IO-PrincipiaGravityModels***. If you are not using ***Principia***, these configs will still work; and if you *are* using ***Principia***, then there should be no reason not to use the ***IO-PrincipiaGravityModels***.
