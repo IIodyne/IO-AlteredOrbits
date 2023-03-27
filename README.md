@@ -3,6 +3,7 @@ A set of configs that alter the orbits and properties of celestial bodies, for s
 
 Some of these configs change the orbits and/or properties of bodies to: more closely resemble their real-life analogues; increase interest and difficulty; alignment with axial tilts supplied by ***IO-PrincipiaGravityModels***, or general enhancements.
 It should not need to be said that the majority of these changes then are arbitrary and by my own personal preference. By all means you may make your own with or without using mine as a template, or you may edit my configs for your personal use.
+
 Please note that when using ***Principia***, both apsidal and nodal precession are very common (though it appears axial precession unfortunately is not). As such, several of the orbits these configs incline precess over hundreds to thousands of years, and so at times may not be/feel as cohesive with my other mods such as ***IO-PrincipaGravityModels***.
 
 Supports ***stock***, ***OPM***, ***MPE***, ***Extrasolar***, & ***GEP***. I felt no need to provide edits for ***NeidonPlus***, ***JanetsPlanets***, and ***Kcalbeloh***.
