@@ -7,7 +7,7 @@ It should not need to be said that the majority of these changes then are arbitr
 
 Please note that when using ***Principia***, both apsidal and nodal precession are very present (though it appears axial precession unfortunately is not). As such, several of the orbits these configs incline precess over hundreds to thousands of years, and so at times may not be/feel as cohesive with my other mods such as ***IO-PrincipaGravityModels***.
 
-Supports ***stock***, ***OPM***, ***MPE***, ***Extrasolar***, & ***GEP***. I felt no need to provide edits for ***NeidonPlus***, ***JanetsPlanets***, and ***Kcalbeloh***.
+Supports ***stock***, ***OPM***, ***MPE***, ***Janet's Planets***, ***Extrasolar***, & ***GEP***. I felt no need to provide edits for ***NeidonPlus*** nor ***Kcalbeloh***.
 
 Please also note that the **MPE** support in ***IO-AlteredOrbits-GEP.cfg*** conflicts with the existing **MPE** support now included in **GEP**. If you are using that file, please delete ***GameData/GEP/GEP_Configs/MPE.cfg***.
 
